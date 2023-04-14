@@ -1,0 +1,134 @@
+
+
+
+
+
+
+Document
+
+
+
+
+
+
+
+                JavaScript assessment
+            
+
+
+
+        JavaScript assessment Q15/15
+    
+
+What does this code print to the
+                console? What does this
+                code print to the console? 
+
+
+
+
+let rainForestAcres = 10;
+                        let animals = 0;
+
+                        while(rainForestAcres < 13 || animals <= 2){
+                        rainForestAcres++
+                        animals += 2;
+                        }
+
+                        console.log(animals); let rainForestAcres = 10;
+                        let animals = 0;
+
+                        while(rainForestAcres < 13 || animals <= 2){
+                        rainForestAcres++
+                        animals += 2;
+                        }
+
+                        console.log(animals); 
+
+
+
+
+
+
+
+
+
+
+22
+
+
+
+
+
+
+
+
+
+44
+
+
+
+
+
+
+
+
+
+88
+
+
+
+
+
+
+
+
+
+66
+
+
+
+
+
+
+
+                    Something wrong with this question?
+                
+
+                    Give feedback
+                
+
+
+
+
+
+
+
+                    Current value: 15
+                
+
+
+
+
+
+
+
+
+Q15/15
+
+
+                        01:21
+                    
+
+                        90 seconds remaining
+                    
+
+
+
+
+                    View results
+                
+
+
+
+
